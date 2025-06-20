@@ -8,7 +8,7 @@
 * 🤝 I’m looking to collaborate on: **Full-stack MERN projects, especially education or AI-related tools**
 * 🤔 I’m looking for help with: **Integrating OpenAI APIs and improving backend architecture**
 * 💬 Ask me about: **Frontend development, JavaScript, React, and building student-friendly apps**
-* 📫 How to reach me: **[LinkedIn](https://kumarana007.github.io/Portfolio/)** (www.linkedin.com/in/kumaran-developer)
+* 📫 How to reach me: **[Portfolio](https://kumarana007.github.io/Portfolio/)** (www.linkedin.com/in/kumaran-developer)
 * ❤️ I love: **Building creative tools that help people learn better**
 * ⚡ Fun fact: **I started with HTML & CSS, and now I’m building AI tools with React & Node in just a few months!**
 
